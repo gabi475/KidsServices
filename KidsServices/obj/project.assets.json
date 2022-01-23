@@ -2050,6 +2050,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Microsoft.EntityFrameworkCore >= 6.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.1",
       "Swashbuckle.AspNetCore >= 6.2.3"
@@ -2104,6 +2105,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.1, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[6.0.1, )"

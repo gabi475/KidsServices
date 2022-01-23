@@ -10,7 +10,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "ac2c3b98-e9e8-40e7-a3c4-14a1316b8f0d": {
+      "ProjectGuid": "ac2c3b98-e9e8-40e7-a3c4-14a1316b8f0d",
+      "DisplayName": "JournalService",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

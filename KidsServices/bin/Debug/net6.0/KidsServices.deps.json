@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "KidsServices/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.1",
           "Swashbuckle.AspNetCore": "6.2.3"

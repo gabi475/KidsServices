@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KidsServices", "KidsServices\KidsServices.csproj", "{DDD4EA03-330C-4E27-981C-C8AAF7D5C9E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JournalService", "JournalService\JournalService.csproj", "{AC2C3B98-E9E8-40E7-A3C4-14A1316B8F0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DDD4EA03-330C-4E27-981C-C8AAF7D5C9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDD4EA03-330C-4E27-981C-C8AAF7D5C9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDD4EA03-330C-4E27-981C-C8AAF7D5C9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2C3B98-E9E8-40E7-A3C4-14A1316B8F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2C3B98-E9E8-40E7-A3C4-14A1316B8F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2C3B98-E9E8-40E7-A3C4-14A1316B8F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2C3B98-E9E8-40E7-A3C4-14A1316B8F0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
